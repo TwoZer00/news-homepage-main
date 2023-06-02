@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Two-Zer00/news-homepage-main)
-- Live Site URL: [Add live site URL here](https://two-zer00.github.io/news-homepage-main)
+- Solution URL: [Github](https://github.com/TwoZer00/news-homepage-main)
+- Live Site URL: [Live site](https://twozer00.github.io/news-homepage-main/)
 
 ## My process
 
